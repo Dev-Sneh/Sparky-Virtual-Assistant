@@ -1,10 +1,8 @@
 import pyttsx3
 import speech_recognition as sr
 import pyttsx3
-import pywhatkit
 import datetime
 import pyjokes
-import flask
 import os
 import cv2
 import wikipedia
